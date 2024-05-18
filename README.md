@@ -106,11 +106,11 @@ Our optimized Support Vector Machine (SVM) model with an RBF kernel achieved exc
 
 * Classification Report:
 
-	              Precision      recall         F1-score       support
+                  Precision      recall         F1-score       support
 Advertisement	    0.98          0.98	          0.98           296
 emails	            0.97          1.0	          0.98	         247
-handwritten	        0.96	      0.97	          0.97	         223
-resume	            0.99	      0.96	          0.97	         341
+handwritten	    0.96	  0.97	          0.97	         223
+resume	            0.99	  0.96	          0.97	         341
 
 ### Conclusions
 Summary:
